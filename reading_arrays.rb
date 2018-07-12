@@ -33,5 +33,6 @@ def first_second_and_third_students
    1st2nd3rd << STUDENT_NAMES[0] 
    1st2nd3rd << STUDENT_NAMES[1] 
    1st2nd3rd << STUDENT_NAMES[2]
+   1st2nd3rd
 end
 puts first_second_and_third_students
