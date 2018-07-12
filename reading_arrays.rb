@@ -29,7 +29,7 @@ def last_student_by_method
 end
 
 def first_second_and_third_students
-   1st2nd3rd = [ ]
+   1st2nd3rd = []
    1st2nd3rd << (STUDENT_NAMES[0]) 
    1st2nd3rd << (STUDENT_NAMES[1]) 
    1st2nd3rd << (STUDENT_NAMES[2])
